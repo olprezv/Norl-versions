@@ -6,7 +6,7 @@ Ce dépôt ne contient que les installeurs de Norl et ce mode d'emploi.
 
 ## Installer
 
-1. **[Télécharger la dernière version](https://github.com/EzvinSollier/Norl-versions/releases/latest)** : dans « Assets », le fichier `Norl-Setup-X.Y.Z.exe`.
+1. **[Télécharger la dernière version](https://github.com/olprezv/Norl-versions/releases/latest)** : dans « Assets », le fichier `Norl-Setup-X.Y.Z.exe`.
 2. Lancer l'installeur. Windows affiche « Windows a protégé votre ordinateur » (SmartScreen), parce que l'installeur n'est pas signé (la signature est payante) : cliquer sur **Informations complémentaires**, puis **Exécuter quand même**.
 3. Choisir le dossier d'installation. Un raccourci Norl est créé sur le bureau et dans le menu Démarrer.
 
