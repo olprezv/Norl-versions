@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="56" viewBox="0 0 384 56" role="img" aria-label="Télécharger Norl pour Windows">
+  <rect width="384" height="56" rx="28" fill="#7c5cff"/>
+  <g fill="#ffffff" transform="translate(30 18)">
+    <rect x="0" y="0" width="9" height="9" rx="1"/>
+    <rect x="11" y="0" width="9" height="9" rx="1"/>
+    <rect x="0" y="11" width="9" height="9" rx="1"/>
+    <rect x="11" y="11" width="9" height="9" rx="1"/>
+  </g>
+  <text x="210" y="35" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Télécharger Norl pour Windows</text>
+</svg>
